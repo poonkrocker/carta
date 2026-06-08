@@ -439,7 +439,7 @@ try {
   width: clamp(200px, 75vw, 340px);
   height: auto;
   display: block;
-  margin: 0 auto -15%;
+  margin: 0 auto -1%;
   /* Compensa el espacio transparente interno del PNG */
 }
 
@@ -478,7 +478,7 @@ try {
 
             <!-- Encabezado: logo + datos de contacto -->
             <header class="menu-header">
-                <a href="https://www.arrabbiata.com.ar" ><img class="menu-logo" src="https://arrabbiata.com.ar/Uploads/logoia.png" alt="Pizzería Arrabbiata"></a>
+                <a href="https://www.arrabbiata.com.ar" ><img class="menu-logo" src="https://arrabbiata.com.ar/Uploads/logoborde.png" alt="Pizzería Arrabbiata"></a>
                 <div class="menu-header-info">
                     <a href="https://maps.app.goo.gl/weS5JgVfJapUXhRj9" target="_blank" rel="noopener">27 de Abril 798</a>
                     <span class="sep">·</span>
