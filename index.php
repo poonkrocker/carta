@@ -439,7 +439,7 @@ try {
   width: clamp(200px, 75vw, 340px);
   height: auto;
   display: block;
-  margin: 0 auto 3%;
+  margin: 0 auto 1%;
   /* Compensa el espacio transparente interno del PNG */
 }
 
